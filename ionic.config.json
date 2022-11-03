@@ -1,0 +1,7 @@
+{
+  "name": "tutorial-qrlogin",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
